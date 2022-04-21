@@ -14,3 +14,11 @@ machine learning in a medical environment, specifically in aiding diagnosis of c
 environment Specifically, the results of this project aim to provide an outlook on how transformers can
 be applied to revolutionize cell screening and imaging in the medical field with specific concentration on
 cervical cancer cells.
+
+## Files:
+Vision_Transformer.ipynb - The original proposed vision transformer, put together by our professor Dr Prashant Shekhar
+16x16_ViT.ipynb - The original proposed vision transformer (CIFAR10).
+Compact_ViT.ipynb - OG ViT with sequence pooling instead of class embedding (CIFAR10).
+CCT.ipynb - Further compaction by introducing convolutional layer instead of patching (CIFAR10).
+Dataset_Prep.ipynb - Custom dataset loader for Cervical Cancer Cells.
+CCT_Cervical_Cancer.ipynb - Our actual research program, CCT with the custom dataset.
