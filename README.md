@@ -16,8 +16,8 @@ be applied to revolutionize cell screening and imaging in the medical field with
 cervical cancer cells. (Sources in project paper)
 
 ## Files:
-CS540_Project_Group5.pdf - Original project paper with results.
-Vision_Transformer.ipynb - The original proposed vision transformer, assembled with assistance from professor Dr Prashant Shekhar
+CS540_Project_Group5.pdf - Original project paper with results.\b
+Vision_Transformer.ipynb - The original proposed vision transformer, assembled with assistance from professor Dr Prashant Shekhar  
 16x16_ViT.ipynb - The original proposed vision transformer (set to use CIFAR10 dataset).
 16x16_ViT_Cervical_Cancer.ipynb - Cervical Cancer classification performed on vanilla ViT as control.
 Compact_ViT.ipynb - Vanilla ViT but with sequence pooling instead of class embedding (set to use CIFAR10 dataset).
